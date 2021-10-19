@@ -1,6 +1,6 @@
 # exam3
 
-A new Flutter project.
+This UI is about Currency exchanges from Uzbek soums to another currencies.
 
 ## Getting Started
 
