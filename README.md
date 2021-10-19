@@ -1,4 +1,4 @@
-# exam3
+# Exam3
 
 This UI is about Currency exchanges from Uzbek soums to another currencies.
 
